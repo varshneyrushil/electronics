@@ -1,0 +1,17 @@
+* text=auto
+*.md text eol=lf
+*.csv text eol=lf
+*.txt text eol=lf
+
+*.pdf binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.zip binary
+*.rar binary
+*.SchDoc binary
+*.SWPcbDoc binary
+*.PcbDoc binary
+*.PcbLib binary
+*.SchLib binary
+*.PrjPcb binary

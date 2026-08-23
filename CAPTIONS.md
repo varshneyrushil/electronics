@@ -404,3 +404,11 @@ Screenshot supplied in chat to confirm the four-wire/Kelvin measurement concept.
 **Naming confidence:** `high`  
 **Related source material:** User discussion only  
 **Recommended use:** Reference only
+
+## `images/pcb/04_modular_motor_driver_interface_pcb_layout.png`
+
+**Short caption:** Modular rover motor-driver interface PCB layout
+
+Recovered PCB layout for a modular rover motor-driver interface. The surviving source routes two motor-control signals plus ground between a 10-position rover-side connector, two duplicate 3-pin headers and the motor-driver module footprint. This specific revision is documented as a PWM/direction signal-routing interface; an I²C-addressed architecture is not claimed for this file set.
+
+**Related source:** `projects/mars-rover-manipal/motor-driver-interface/`

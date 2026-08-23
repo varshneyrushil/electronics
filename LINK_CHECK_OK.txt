@@ -1,0 +1,1 @@
+All checked relative Markdown links resolve inside the package.
